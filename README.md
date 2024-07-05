@@ -1,3 +1,5 @@
+* Main Change: Changed the leader to GROQ, fastest token generator for a very fast response.
+
 # Mixture-of-Agents (MoA)
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](LICENSE)
